@@ -13,7 +13,7 @@ export default props => {
     <div>
       <span>{text}</span>
       <Button {...props}>{text}</Button>
-      <input type="text" value="111" />
+      <input type="text" value="1110000" />
     </div>
   );
 };
