@@ -1,6 +1,6 @@
 {
   "name": "hello-father",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "我是来测试模块化开发",
   "main": "lib/index.js",
   "scripts": {
