@@ -1,6 +1,6 @@
 {
   "name": "yew-btn",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "我是来测试模块化开发btn",
   "main": "lib/index.js",
   "scripts": {
